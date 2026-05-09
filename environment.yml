@@ -1,0 +1,27 @@
+name: gas-neurips2026
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch=2.1.0
+  - torchvision=0.16.0
+  - pytorch-cuda=12.1
+  - cudatoolkit=12.1
+  - numpy
+  - pandas
+  - pyyaml
+  - tqdm
+  - scikit-learn
+  - matplotlib
+  - pillow
+  - pip
+  - pip:
+    - timm
+    - transformers>=4.41.0
+    - accelerate
+    - einops
+    - peft
+    - flash-attn --no-build-isolation
+    - huggingface_hub
