@@ -5,7 +5,7 @@
 **NeurIPS 2026 Submission** | Anonymous Preprint
 
 <p align="center">
-  <img src="assets/teaser.png" width="98%" alt="Teaser Figure">
+  <img src="assets/teaser_01.png" width="98%" alt="Teaser Figure">
 </p>
 
 ---
@@ -23,7 +23,7 @@
 ## 📖 Motivation
 
 <p align="center">
-  <img src="assets/motivation_fig1.png" width="95%" alt="Figure 1: Motivation">
+  <img src="assets/motivation_fig1_01.png" width="95%" alt="Figure 1: Motivation">
 </p>
 
 细粒度水果识别中，类别间高度视觉相似性导致特征流形重叠、决策边界模糊，进而引发系统性过自信与不可靠预测。
@@ -33,7 +33,7 @@
 ## 🧠 Proposed Method: GAS
 
 <p align="center">
-  <img src="assets/framework_fig2.png" width="95%" alt="Figure 2: GAS Framework">
+  <img src="assets/framework_fig2_01.png" width="95%" alt="Figure 2: GAS Framework">
 </p>
 
 **Geometry-Aware Structured Arbitration (GAS)** 包含四个核心阶段：
